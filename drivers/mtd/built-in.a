@@ -1,0 +1,53 @@
+!<thin>
+//                                              472       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+ofpart.o/
+mtd_blkdevs.o/
+mtdblock.o/
+chips/chipreg.o/
+devices/m25p80.o/
+nand/raw/nand_base.o/
+nand/raw/nand_bbt.o/
+nand/raw/nand_timings.o/
+nand/raw/nand_ids.o/
+nand/raw/nand_amd.o/
+nand/raw/nand_hynix.o/
+nand/raw/nand_macronix.o/
+nand/raw/nand_micron.o/
+nand/raw/nand_samsung.o/
+nand/raw/nand_toshiba.o/
+nand/raw/nand_ecc.o/
+nand/raw/denali.o/
+nand/raw/denali_dt.o/
+spi-nor/spi-nor.o/
+spi-nor/cadence-quadspi.o/
+
+/0              0           0     0     644     234580    `
+/11             0           0     0     644     125712    `
+/23             0           0     0     644     152004    `
+/36             0           0     0     644     106912    `
+/47             0           0     0     644     197856    `
+/58             0           0     0     644     70992     `
+/68             0           0     0     644     150276    `
+/83             0           0     0     644     101324    `
+/95             0           0     0     644     65596     `
+/112            0           0     0     644     129556    `
+/130            0           0     0     644     302768    `
+/152            0           0     0     644     100092    `
+/173            0           0     0     644     65876     `
+/198            0           0     0     644     69036     `
+/219            0           0     0     644     63112     `
+/240            0           0     0     644     78548     `
+/263           /0           0     0     644     63920     `
+/289            0           0     0     644     78188     `
+/313            0           0     0     644     64408     `
+/338            0           0     0     644     64048     `
+/363            0           0     0     644     75820     `
+/384            0           0     0     644     168148    `
+/403            0           0     0     644     81928     `
+/425            0           0     0     644     204276    `
+/444            0           0     0     644     226484    `

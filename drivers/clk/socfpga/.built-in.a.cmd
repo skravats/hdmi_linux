@@ -1,0 +1,1 @@
+cmd_drivers/clk/socfpga/built-in.a := rm -f drivers/clk/socfpga/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/clk/socfpga/built-in.a drivers/clk/socfpga/clk.o drivers/clk/socfpga/clk-gate.o drivers/clk/socfpga/clk-pll.o drivers/clk/socfpga/clk-periph.o drivers/clk/socfpga/clk-pll-a10.o drivers/clk/socfpga/clk-periph-a10.o drivers/clk/socfpga/clk-gate-a10.o

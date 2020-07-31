@@ -1,0 +1,13 @@
+!<thin>
+//                                              78        `
+timer-of.o/
+timer-probe.o/
+dw_apb_timer.o/
+dw_apb_timer_of.o/
+dummy_timer.o/
+
+/0              0           0     0     644     30388     `
+/12             0           0     0     644     49264     `
+/27             0           0     0     644     40552     `
+/43             0           0     0     644     39400     `
+/62             0           0     0     644     57800     `

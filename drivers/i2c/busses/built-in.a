@@ -1,0 +1,10 @@
+!<thin>
+//                                              90        `
+i2c-altera.o/
+i2c-designware-common.o/
+i2c-designware-master.o/
+i2c-designware-platdrv.o/
+/0              0           0     0     644     89204     `
+/14             0           0     0     644     80128     `
+/39             0           0     0     644     82912     `
+/64             0           0     0     644     133284    `

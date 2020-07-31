@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/adc/built-in.a := rm -f drivers/staging/iio/adc/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/adc/built-in.a drivers/staging/iio/adc/ad7780.o drivers/staging/iio/adc/ad7816.o drivers/staging/iio/adc/ad7192.o drivers/staging/iio/adc/ad7280a.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/can/c_can/built-in.a := rm -f drivers/net/can/c_can/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/net/can/c_can/built-in.a drivers/net/can/c_can/c_can.o drivers/net/can/c_can/c_can_platform.o

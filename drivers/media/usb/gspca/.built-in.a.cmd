@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/built-in.a := rm -f drivers/media/usb/gspca/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/media/usb/gspca/built-in.a drivers/media/usb/gspca/gspca.o drivers/media/usb/gspca/autogain_functions.o

@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.a := rm -f drivers/clocksource/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/clocksource/built-in.a drivers/clocksource/timer-of.o drivers/clocksource/timer-probe.o drivers/clocksource/dw_apb_timer.o drivers/clocksource/dw_apb_timer_of.o drivers/clocksource/dummy_timer.o

@@ -1,0 +1,49 @@
+!<thin>
+//                                              400       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-adjustable-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+clk-altera-a10-fpll.o/
+socfpga/clk.o/
+socfpga/clk-gate.o/
+socfpga/clk-pll.o/
+socfpga/clk-periph.o/
+socfpga/clk-pll-a10.o/
+socfpga/clk-periph-a10.o/
+socfpga/clk-gate-a10.o/
+
+/0              0           0     0     644     52432     `
+/14             0           0     0     644     52080     `
+/26             0           0     0     644     82656     `
+/36             0           0     0     644     403712    `
+/43             0           0     0     644     63384     `
+/58             0           0     0     644     75884     `
+/78             0           0     0     644     74508     `
+/96             0           0     0     644     71244     `
+/119            0           0     0     644     36008     `
+/131            0           0     0     644     30432     `
+/149            0           0     0     644     43124     `
+/160           /0           0     0     644     36500     `
+/177            0           0     0     644     67756     `
+/203            0           0     0     644     69140     `
+/215            0           0     0     644     53136     `
+/227            0           0     0     644     83936     `
+/250            0           0     0     644     22296     `
+/265            0           0     0     644     38588     `
+/285            0           0     0     644     33588     `
+/304            0           0     0     644     33028     `
+/326            0           0     0     644     33316     `
+/349            0           0     0     644     33680     `
+/375            0           0     0     644     34976     `

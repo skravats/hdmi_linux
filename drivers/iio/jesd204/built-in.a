@@ -1,0 +1,18 @@
+!<thin>
+//                                              150       `
+axi_adxcvr.o/
+axi_adxcvr_eyescan.o/
+axi_jesd204b_v51.o/
+axi_jesd204b_gt.o/
+axi_jesd204_rx.o/
+axi_jesd204_tx.o/
+xilinx_transceiver.o/
+altera_adxcvr.o/
+/0              0           0     0     644     100160    `
+/14             0           0     0     644     117364    `
+/36             0           0     0     644     131668    `
+/56             0           0     0     644     178640    `
+/75             0           0     0     644     111880    `
+/93             0           0     0     644     90784     `
+/111            0           0     0     644     92364     `
+/133           /0           0     0     644     121348    `

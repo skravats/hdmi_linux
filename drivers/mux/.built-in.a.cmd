@@ -1,0 +1,1 @@
+cmd_drivers/mux/built-in.a := rm -f drivers/mux/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/mux/built-in.a drivers/mux/core.o drivers/mux/adg792a.o drivers/mux/adgs1408.o drivers/mux/gpio.o drivers/mux/mmio.o

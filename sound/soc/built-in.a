@@ -1,0 +1,100 @@
+!<thin>
+//                                              938       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-generic-dmaengine-pcm.o/
+codecs/ad1836.o/
+codecs/ad193x.o/
+codecs/ad193x-spi.o/
+codecs/ad193x-i2c.o/
+codecs/adau-utils.o/
+codecs/adau1373.o/
+codecs/adau1701.o/
+codecs/adau17x1.o/
+codecs/adau1761.o/
+codecs/adau1761-i2c.o/
+codecs/adau1761-spi.o/
+codecs/adau1781.o/
+codecs/adau1781-i2c.o/
+codecs/adau1781-spi.o/
+codecs/adau1977.o/
+codecs/adau1977-spi.o/
+codecs/adau1977-i2c.o/
+codecs/adau7002.o/
+codecs/adau7118.o/
+codecs/adau7118-i2c.o/
+codecs/adau7118-hw.o/
+codecs/adav80x.o/
+codecs/adav801.o/
+codecs/adav803.o/
+codecs/hdmi-codec.o/
+codecs/sigmadsp.o/
+codecs/sigmadsp-i2c.o/
+codecs/sigmadsp-regmap.o/
+codecs/ssm2305.o/
+codecs/ssm2518.o/
+codecs/ssm2602.o/
+codecs/ssm2602-spi.o/
+codecs/ssm2602-i2c.o/
+codecs/ssm4567.o/
+codecs/ts3a227e.o/
+generic/simple-card-utils.o/
+generic/simple-card.o/
+adi/axi-i2s.o/
+adi/axi-spdif.o/
+adi/adrv936x_box.o/
+/0              0           0     0     644     317428    `
+/12             0           0     0     644     303116    `
+/24             0           0     0     644     165544    `
+/36             0           0     0     644     149908    `
+/49             0           0     0     644     242844    `
+/60             0           0     0     644     141292    `
+/70             0           0     0     644     140528    `
+/84             0           0     0     644     165768    `
+/95             0           0     0     644     161512    `
+/124            0           0     0     644     162704    `
+/141            0           0     0     644     147860    `
+/158            0           0     0     644     108180    `
+/179            0           0     0     644     99400     `
+/200            0           0     0     644     13880     `
+/221            0           0     0     644     237456    `
+/240            0           0     0     644     176224    `
+/259            0           0     0     644     179692    `
+/278            0           0     0     644     179384    `
+/297            0           0     0     644     101020    `
+/320            0           0     0     644     111088    `
+/343            0           0     0     644     163604    `
+/362            0           0     0     644     100576    `
+/385            0           0     0     644     110624    `
+/408            0           0     0     644     160296    `
+/427            0           0     0     644     109572    `
+/450            0           0     0     644     99496     `
+/473            0           0     0     644     134148    `
+/492            0           0     0     644     149068    `
+/511            0           0     0     644     63596     `
+/534            0           0     0     644     52624     `
+/556            0           0     0     644     159052    `
+/574            0           0     0     644     107740    `
+/592            0           0     0     644     98836     `
+/610            0           0     0     644     162164    `
+/631            0           0     0     644     153776    `
+/650            0           0     0     644     94960     `
+/673            0           0     0     644     85972     `
+/699            0           0     0     644     134108    `
+/717            0           0     0     644     173472    `
+/735            0           0     0     644     153948    `
+/753            0           0     0     644     107788    `
+/775            0           0     0     644     99936     `
+/797            0           0     0     644     153084    `
+/815            0           0     0     644     161844    `
+/834            0           0     0     644     159432    `
+/863            0           0     0     644     150596    `
+/886            0           0     0     644     144260    `
+/901            0           0     0     644     145000    `
+/918            0           0     0     644     159468    `

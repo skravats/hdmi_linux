@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.a := rm -f drivers/input/touchscreen/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/input/touchscreen/built-in.a drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/ad7877.o drivers/input/touchscreen/ad7879.o drivers/input/touchscreen/ad7879-i2c.o drivers/input/touchscreen/ad7879-spi.o drivers/input/touchscreen/ads7846.o

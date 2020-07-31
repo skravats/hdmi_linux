@@ -1,0 +1,1 @@
+cmd_firmware/built-in.a := rm -f firmware/built-in.a; arm-linux-gnueabi-ar rcSTPD firmware/built-in.a firmware/Mykonos_M3.bin.gen.o firmware/TaliseStream.bin.gen.o firmware/TaliseTDDArmFirmware.bin.gen.o firmware/TaliseTxArmFirmware.bin.gen.o firmware/TaliseRxArmFirmware.bin.gen.o

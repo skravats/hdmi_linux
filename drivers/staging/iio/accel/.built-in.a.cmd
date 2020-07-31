@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/accel/built-in.a := rm -f drivers/staging/iio/accel/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/accel/built-in.a drivers/staging/iio/accel/adis16203.o drivers/staging/iio/accel/adis16240.o

@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/resolver/built-in.a := rm -f drivers/staging/iio/resolver/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/resolver/built-in.a drivers/staging/iio/resolver/ad2s90.o drivers/staging/iio/resolver/ad2s1210.o

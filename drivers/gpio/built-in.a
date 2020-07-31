@@ -1,0 +1,23 @@
+!<thin>
+//                                              146       `
+devres.o/
+gpiolib.o/
+gpiolib-legacy.o/
+gpiolib-devprop.o/
+gpiolib-of.o/
+gpiolib-sysfs.o/
+gpio-mmio.o/
+gpio-altera.o/
+gpio-dwapb.o/
+gpio-pl061.o/
+
+/0              0           0     0     644     84436     `
+/10             0           0     0     644     384856    `
+/21             0           0     0     644     64160     `
+/39             0           0     0     644     59888     `
+/58             0           0     0     644     84756     `
+/72            /0           0     0     644     98080     `
+/89             0           0     0     644     84952     `
+/102            0           0     0     644     86776     `
+/117            0           0     0     644     114740    `
+/131            0           0     0     644     115420    `

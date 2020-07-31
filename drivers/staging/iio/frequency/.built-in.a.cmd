@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/frequency/built-in.a := rm -f drivers/staging/iio/frequency/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/frequency/built-in.a drivers/staging/iio/frequency/ad9832.o drivers/staging/iio/frequency/ad9834.o

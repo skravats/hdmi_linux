@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/addac/built-in.a := rm -f drivers/staging/iio/addac/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/addac/built-in.a drivers/staging/iio/addac/adt7316.o drivers/staging/iio/addac/adt7316-spi.o drivers/staging/iio/addac/adt7316-i2c.o

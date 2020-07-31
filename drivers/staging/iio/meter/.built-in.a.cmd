@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/meter/built-in.a := rm -f drivers/staging/iio/meter/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/staging/iio/meter/built-in.a drivers/staging/iio/meter/ade7854.o drivers/staging/iio/meter/ade7854-i2c.o drivers/staging/iio/meter/ade7854-spi.o

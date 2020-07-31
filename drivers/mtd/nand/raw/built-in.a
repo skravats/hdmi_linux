@@ -1,0 +1,28 @@
+!<thin>
+//                                              178       `
+nand_base.o/
+nand_bbt.o/
+nand_timings.o/
+nand_ids.o/
+nand_amd.o/
+nand_hynix.o/
+nand_macronix.o/
+nand_micron.o/
+nand_samsung.o/
+nand_toshiba.o/
+nand_ecc.o/
+denali.o/
+denali_dt.o/
+/0              0           0     0     644     302768    `
+/13             0           0     0     644     100092    `
+/25             0           0     0     644     65876     `
+/41             0           0     0     644     69036     `
+/53             0           0     0     644     63112     `
+/65             0           0     0     644     78548     `
+/79            /0           0     0     644     63920     `
+/96             0           0     0     644     78188     `
+/111            0           0     0     644     64408     `
+/127            0           0     0     644     64048     `
+/143            0           0     0     644     75820     `
+/155            0           0     0     644     168148    `
+/165            0           0     0     644     81928     `

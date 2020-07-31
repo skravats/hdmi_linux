@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-socfpga/built-in.a := rm -f arch/arm/mach-socfpga/built-in.a; arm-linux-gnueabi-ar rcSTPD arch/arm/mach-socfpga/built-in.a arch/arm/mach-socfpga/socfpga.o arch/arm/mach-socfpga/headsmp.o arch/arm/mach-socfpga/platsmp.o

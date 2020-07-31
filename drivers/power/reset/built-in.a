@@ -1,0 +1,9 @@
+!<thin>
+//                                              58        `
+gpio-poweroff.o/
+ltc2952-poweroff.o/
+restart-poweroff.o/
+
+/0             /0           0     0     644     58944     `
+/17             0           0     0     644     64616     `
+/37             0           0     0     644     55480     `

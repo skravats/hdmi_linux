@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/adi_axi_hdmi/built-in.a := rm -f drivers/gpu/drm/adi_axi_hdmi/built-in.a; arm-linux-gnueabi-ar rcSTPD drivers/gpu/drm/adi_axi_hdmi/built-in.a drivers/gpu/drm/adi_axi_hdmi/axi_hdmi_encoder.o drivers/gpu/drm/adi_axi_hdmi/axi_hdmi_crtc.o drivers/gpu/drm/adi_axi_hdmi/axi_hdmi_drv.o
